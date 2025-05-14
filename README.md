@@ -1,6 +1,6 @@
 # IBMJAVA
 
-## Java Development from IBM Professional Certificate (11 course series)
+## IBM Java Developer Professional Certificate (11 course series)
 
 With experienced Java developers earning more than USD138,000 annually, Java is an excellent choice for anyone looking to start a career, or change to a new career using Java for software development. This IBM Professional Certificate program equips you with the skills needed to build and deploy Java applications, integrate front-end technologies, and create dynamic cloud and enterprise solutions.
 

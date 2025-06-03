@@ -1,0 +1,3 @@
+git clone https://github.com/dennislamcvalt/java-database-capstone
+
+export PROJECT_HOME=/home/project/java-database-capstone
